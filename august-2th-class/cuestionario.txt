@@ -1,0 +1,21 @@
+Cuestionario PHP
+
+Respondé con tus palabras (tratá de evitar las IAs). Pueden empezar buscando información en https://www.php.net/manual/es/ 
+
+1) ¿Qué es PHP?
+2) ¿Para qué sirve?
+3) ¿Está basado en otro lenguaje?
+4) ¿A qué tipo de sistema operativo está orientado?
+5) ¿Por qué lo usarías?
+6) ¿Cómo se relaciona con una base de datos?
+7) ¿Quienes le dan soporte?
+8) ¿Qué particularidades tiene la sintaxis?
+9) ¿Qué tipo de lenguaje es? (paradigma, estático/dinámico, etc.)
+10) ¿Se compila? ¿Cómo se procesa?
+11) ¿Qué requisitos son necesarios para su instalación?
+12) Por último, instalen PHP junto a un servidor HTTP y un motor de bases de datos. Hacelo de forma manual, y luego, con un paquete como XAMPP, LAMP, etc.
+
+1)php o Hypertext Processor es un lenguaje de codigo abierto, osea que todo el mundo puede interactuar, como en los repositorios de GitHub. Además tiene codigo HTML incorporado, osea que al crear un archivo .php, ponemos la misma estructura de HTML y todos los scripts de php en el body.
+
+2)PHP sirve para realizar scripts del lado del servidor, pero además puede por ejemplo, recopilar datos de formularios, realizar páginas con contenidos dinámicos, enviar y recibir cookies, etc.
+
