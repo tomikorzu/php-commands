@@ -17,5 +17,5 @@ Respondé con tus palabras (tratá de evitar las IAs). Pueden empezar buscando i
 
 1)php o Hypertext Processor es un lenguaje de codigo abierto, osea que todo el mundo puede interactuar, como en los repositorios de GitHub. Además tiene codigo HTML incorporado, osea que al crear un archivo .php, ponemos la misma estructura de HTML y todos los scripts de php en el body.
 
-2)PHP sirve para realizar scripts del lado del servidor, pero además puede por ejemplo, recopilar datos de formularios, realizar páginas con contenidos dinámicos, enviar y recibir cookies, etc.
+2)PHP sirve crear sitios web que interactuan con base de datos y responden a acciones del usuario, pero además puede por ejemplo, recopilar datos de formularios, enviar y recibir cookies, etc.
 
