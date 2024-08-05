@@ -1,0 +1,9 @@
+// la etiqueta de apertura y cierre de codigo de php es <?php 'contenido' ?>
+// Aunque si un codigo solo es de php, se recomienda no cerrarlo
+// Codigo:
+    <?php
+    echo "Hola mundo";
+    // ... más código
+    echo "Última sentencia";
+    // el script finaliza aquí sin etiqueta de cierre de PHP
+

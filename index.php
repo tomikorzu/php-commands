@@ -14,5 +14,8 @@
     <div class="welcome-message">
         <h1>Hola <?php echo $title ?></h1>
     </div>
+    <a href="./froms-examples/example-1.php">Form, Ejemplo 1</a>
+    <a href="./php-document/types.php">Tipos de variables</a>
+    
 </body>
 </html>

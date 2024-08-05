@@ -19,3 +19,4 @@ Respondé con tus palabras (tratá de evitar las IAs). Pueden empezar buscando i
 
 2)PHP sirve crear sitios web que interactuan con base de datos y responden a acciones del usuario, pero además puede por ejemplo, recopilar datos de formularios, enviar y recibir cookies, etc.
 
+3)
