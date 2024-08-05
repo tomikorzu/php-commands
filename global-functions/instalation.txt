@@ -1,1 +1,12 @@
-Para instalar php, 
+Para instalar php:
+// se debe descargar xampp para ubuntu
+// se debe colocar ese archivo en una carpeta
+
+poner en la consola de ubuntu:
+// sudo chmod 755 xampp-linux-x64-8.2.12-0-installer.run
+// sudo ./xampp-linux-x64-8.2.12-0-installer.run
+// y luego en xampp solo ponemos 'siguiente'
+// luego al terminar de instalarse, vamos a manage server y ponemos start all
+
+
+Extensiones
