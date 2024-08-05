@@ -21,3 +21,30 @@ Respondé con tus palabras (tratá de evitar las IAs). Pueden empezar buscando i
 
 3)PHP se inspiró en lenguajes como C, Perl y JAVa.
 
+4)PHP está inspirado en sistemas unix / linux.
+
+5)Lo usaría porque pienso que hay mayor facilidad al conectarse con la base de datos, además que su sintaxis no es tan complicada.
+
+6)PHP se relaciona con bases de datos gracias a sus extensiones MySQLi(MySQL improved), con una mejor interfaz que la anterior MYSQL. PDO (PHP Data objects), permite trabajar con muchas bases de datos como MySQL, PostgreSQL, SQlite y demás. Estas extensiones permiten conectar bases de datos a una página web por ejemplo, ya sea ingresando, eliminando datos y demás.
+
+7)PHP recibe soporte de parte de open-source y The Php Group, quienes supervisan el desarrollo y mantenimiento del lenguaje.
+
+8)Se puede ver reflejado en el archivo sintaxis.php y types.php.
+Pero podemos decir:
+// que cada script de php se encuentra entre '<?php 'contenido' ?>
+// Las variables arrancan con '$'
+// Las instrucciones terminan con ; , y a diferencia de JavaScript, si estas no se ponen, lo demas no funciona
+// Se puede comentar las lineas poniendo // , o varias lineas con /* 'comentario' */
+// Se puede mezclar facilmente codigo HTML y php
+
+9) PHP es un lenguaje de tipo Dinamico, ya que al crear variables no es necesario especificar su tipo de variable.
+
+10)PHP no se compila, ya que es un lenguaje interpretado. Se procesa mediante el servidor Web (apache), quien recibe una solicitud para un archivo PHP. Luego el interprete de php lee el archivo y lo ejecuta. Y por ultimo se genera el HTML.
+
+11)En el archivo instalation.txt lo especifica, pero para instalarlo, basicamente se necesita:
+// Tener un sevidor web como 'apache'
+// tener un sistema operativo compatible (Windows, Linux y macOS)
+// Tener su interprete para tu sistema operativo
+// LAs extensiones de bases de datos como MySQLi o PDO.
+
+12)Hecho
