@@ -16,6 +16,6 @@
     </div>
     <a href="./froms-examples/example-1.php">Form, Ejemplo 1</a>
     <a href="./php-document/types.php">Tipos de variables</a>
-    
+    <a href="./august-6th-class/index.php">Formulario con inyeccion SQL</a>
 </body>
 </html>
